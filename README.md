@@ -46,15 +46,12 @@ The schedule is subject to change.
 | 14     	| Quiz 2                                                              	|                         	|              	|
 | 14     	| choosing, Combinatorics and expected values                          	|                         	|           	|
 | 14     	| Introduction to analysis of algorithms                               	| 6.1                       |              	|
-| 15     	| Fall break - No classes                                             	|                         	|              	|
-| 15     	| Fall break - No classes                                             	|                         	|              	|
-| 15     	| Fall break - No classes                                             	|                         	|              	|
-| 16     	| Big O                                                 	            | 6.2                      	|           	|
-| 16     	| Properties of Big O and Worst case runtime analysis                 	| 6.3                      	|              	|
-| 16     	| Analysis of recursive algorithms                                    	| 6.4                      	|              	|
-| 17     	|                                                                    	|                         	|              	|
-| 17     	| Quiz 3                                                              	|                         	|       		|
-| 17     	| End of semester                                                     	|                         	|              	|
+| 15     	| Big O                                                 	            | 6.2                      	|           	|
+| 15     	| Properties of Big O and Worst case runtime analysis                 	| 6.3                      	|              	|
+| 15     	| Analysis of recursive algorithms                                    	| 6.4                      	|              	|
+| 16     	|                                                                    	|                         	|              	|
+| 16     	| Quiz 3                                                              	|                         	|       		|
+| 16     	| End of semester                                                     	|                         	|              	|
 |        	|                                                                     	|                         	|              	|
 
 
