@@ -6,54 +6,54 @@ The schedule is subject to change.
 | Week # 	                          	| Lectrure topic                                                      	| Recommended reading     	| Homework due 	|
 |--------	|---------------------------------------------------------------------	|-------------------------	|--------------	|
 | 1      	| Course intro and Syllabus                                           	|                         	|              	|
-| 1      	| [Prepositions, Proof, Direct proofs](https://github.com/adiesha/CSCI246Fall2024/tree/master/Notes/Lecture02)                          	| 4.3, 2.2.1-2.2.3, 2.2.6 	|              	|
-| 1      	| [Proof by cases](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture03/Lecture03_Proof_by_cases.pdf)                                                    	| 4.3,2.3                 	|              	|
-| 1      	| [Proof by cases II](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture04/Lec4_Proof_ByCases_Part2.pdf)                                                   	| 2.3                     	|              	|
-| 2      	| [Proof by cases III](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture05/proof_by_cases_3.pdf) : [Introduction to sets](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture05/Intro_to_Sets_1.pdf)                                                	| 2.3                     	|              	|
-| 2      	| Labor day-No classes                                                	|                         	| [HW1](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework1/CSCI_246_HW_1.pdf), [Tex source](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework1/hw1.tex)          	|
-| 2         | [Sets II](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture06/Sets_part_2.pdf)                                                             	| 2.3,9.2,2.4             	|              	|
-| 2      	| [Sets III](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture07/Sets_3.pdf)                                                            	| 2.3,9.2,2.5             	|              	|
-| 3      	| [Sets IV](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture08/Sets_4.pdf)                                             	|                         	| [HW2](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework2/HW2.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework2/HW2_Latex.tex)          	|
-| 3      	| [Propositinal Logic](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture09/Propositional_Logic_Cont.pdf)                                              	|                         	|              	|
-| 3      	| [Propositinal logic](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture10/Propositional_logic_2.pdf)                                               	|   3.1-3.4                      	|              	|
-| 3      	| [Proof by contradiction](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture11/Proof_By_Contradiction.pdf)						| 	3.1-3.3                 | [HW3](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework3/hw3.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework3/hw3_latex.tex)          	|
-| 4      	| [Proof by contrapositive](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture12/proof_by_contr_positive.pdf)                                                  	| 	3.1-3.4                 |              	|
-| 4      	| [Introduction to Predicate Logic](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture13/Introduction_To_Predicate_Logic.pdf)            	| 3.4-3.5                     	|              	|
-| 4      	| [Theorems in predicate logic](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture14/Predicate_Logic_2.pdf)                                     	|                         	| [HW4](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework4/hw4.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework4/hw4_latex.tex)     	|
-| 4      	| [Introduction to Functions](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture15/Functions_intro.pdf)                                        	|                         	|              	|
-| 5      	| [Onto and one-to-one functions](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture16/Functions_Part2.pdf)                                        	| 2.5                        	|              	|
-| 5      	| [Proving functions are not onto and one to one](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture17/proving_functions_not_ontoand_onetoone.pdf)                                       	|                         	| [HW5](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework5/CSCI_246_lecture_notes.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework5/hw5_latex.tex)          	|
-| 5      	| [Pigeonhole principle](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture18/Pigeon_Hole_Principle.pdf)  			                     	|         2.5, 9.3             	|              	|
-| 5      	| [Introduction to Relations](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture19/Relations.pdf)                                               	| 8.1-8.3                        	|              	|
-| 6      	| Quiz 1 review                                                       	|                         	| [Hw6](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework6/hw6.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework6/hw6_latex.tex)          	|
+| 1      	| Prepositions, Proof, Direct proofs                          	        | 4.3, 2.2.1-2.2.3, 2.2.6 	|              	|
+| 1      	| Proof by cases                                                    	| 4.3,2.3                 	|              	|
+| 1      	| Proof by cases II                                                   	| 2.3                     	|              	|
+| 2      	| Proof by cases III, Introduction to sets                              | 2.3                     	|              	|
+| 2      	| Labor day-No classes                                                	|                         	|               |
+| 2         | Sets II                                                            	| 2.3,9.2,2.4             	|              	|
+| 2      	| Sets III                                                            	| 2.3,9.2,2.5             	|              	|
+| 3      	| Sets IV                                             	                |                         	|           	|
+| 3      	| Propositinal Logic                                                  	|                         	|              	|
+| 3      	| Propositinal logic                                                   	|   3.1-3.4                 |              	|
+| 3      	| Proof by contradiction						                        | 	3.1-3.3                 |           	|
+| 4      	| Proof by contrapositive                                              	| 	3.1-3.4                 |              	|
+| 4      	| Introduction to Predicate Logic                                   	| 3.4-3.5                   |              	|
+| 4      	| Theorems in predicate logic                                           |                         	|              	|
+| 4      	| Introduction to Functions                                         	|                         	|              	|
+| 5      	| Onto and one-to-one functions                                        	| 2.5                       |              	|
+| 5      	| Proving functions are not onto and one to one                       	|                         	|            	|
+| 5      	| Pigeonhole principle                			                     	|    2.5, 9.3             	|              	|
+| 5      	| Introduction to Relations                                            	| 8.1-8.3                  	|              	|
+| 6      	| Quiz 1 review                                                       	|                         	|           	|
 | 6      	| Quiz1                                                               	|                         	|              	|
-| 6      	| [Relations continued](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture21/Relations_cont.pdf)                                           	| 8.1-8.4                        	|              	|
-| 6      	| [Equivalance relations and equivalence classes](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture22/Equivalance_relations_and_classes.pdf)                                                           	| 8.1-8.4                        	|              	|
-| 9      	| [Equivalance relations:partial and total order](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture23/More_on_relations.pdf)                       	| 8.1-8.4                        	|              	|
-| 9      	| [Introduction to induction](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture24/Introduction_to_Induction.pdf)                                                 	| 	5.1-5.2                        	| 		|
-| 10     	| [Proof by induction and examples](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture25/Induction_examples.pdf)                                               	| 	5.1-5.4                        	| [HW7](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework7/hw7.pdf), [latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework7/hw7_latex.tex)         	|
-| 10     	| [Inductions Examples continued](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture26/Induction_continued_with_examples.pdf), [Recursively defined structures](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture26/Recursively_defined_structures_and_seets.pdf) 	|                         	|              	|
-| 10     	| [Strong Induction](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture27/Strong_Induction.pdf)                                              	| 	5.1-5.4                        	|              	|
-| 11     	| [Introduction to graphs](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture28/Intro_to_graphs.pdf)                                                 	| 11.1-11.2                        	| [HW8](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework8/hw8.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework8/hw8_latex.tex)         	|
-| 11     	| [Proofs about graphs](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture29/Proofs%20about%20graphs.pdf)                                                      	|                         	|              	|
-| 11     	| [Special graphs: Clique](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture30/Special_graphs_Clique.pdf)                                                    	|                         	|              	|
-| 12     	| [BiPartite graphs and Paths](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture31/Bipartite_graphs.pdf)                                             	|                         	| [HW9](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework9/hw9.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework9/hw9_latex.tex)             	|
-| 12     	| [Paths, Cycles and Trees](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture32/Paths_Cycles_and_Trees.pdf)            |                         	|          	|
-| 12     	| [Introduction to probability and counting](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture33/Introduction_To_Probability_And_Counting.pdf)|                         	|              	|
-| 13     	| Veteran's day - No classes                                          	|                         	| [HW10](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework10/hw10.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework10/hw10_latex.tex)             	|
-| 13     	| [Tree diagrams and permutations](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture34/Tree_Diagrams_and_Permutations.pdf)                    	|                         	|          	|
+| 6      	| Relations continued                                                 	| 8.1-8.4                  	|              	|
+| 6      	| Equivalance relations and equivalence classes                       	| 8.1-8.4                  	|              	|
+| 9      	| Equivalance relations:partial and total order                       	| 8.1-8.4                  	|              	|
+| 9      	| Introduction to induction                                            	| 5.1-5.2                	| 		        |
+| 10     	| Proof by induction and examples                                       | 	5.1-5.4                	|            	|
+| 10     	| Inductions Examples continued, Recursively defined structures      	|                         	|              	|
+| 10     	| Strong Induction                                                    	| 	5.1-5.4                 |              	|
+| 11     	| Introduction to graphs                                                | 11.1-11.2                 |            	|
+| 11     	| Proofs about graphs	                                                |                         	|              	|
+| 11     	| Special graphs: Clique                                               	|                         	|              	|
+| 12     	| BiPartite graphs and Paths                                            |                         	|               |
+| 12     	| Paths, Cycles and Trees                                               |                         	|          	    |
+| 12     	| Introduction to probability and counting                              |                         	|              	|
+| 13     	| Veteran's day - No classes                                          	|                         	|               |
+| 13     	| Tree diagrams and permutations                                        |                         	|          	    |
 | 13     	| Quiz 2 review                                                       	|                         	|              	|
 | 14     	| Quiz 2                                                              	|                         	|              	|
-| 14     	| [choosing, Combinatorics and expected values](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture37/Expected_value_and_n_choose_k.pdf)                              	|                         	|         	|
-| 14     	| [Introduction to analysis of algorithms](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture38/Analysis_of_algorithm.pdf)                                                               	| 6.1                        	| [HW 11](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework11/hw11.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework11/hw11_latex.tex)             	|
+| 14     	| choosing, Combinatorics and expected values                          	|                         	|           	|
+| 14     	| Introduction to analysis of algorithms                               	| 6.1                       |              	|
 | 15     	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Fall break - No classes                                             	|                         	|              	|
 | 15     	| Fall break - No classes                                             	|                         	|              	|
-| 16     	| [Big O](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture39/BigO.pdf)                                                 	| 6.2                        	|         	|
-| 16     	| [Properties of Big O and Worst case runtime analysis](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture40/Properties%20of%20Big%20O.pdf)                                         	| 6.3                        	|              	|
-| 16     	| [Analysis of recursive algorithms](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture41/Analysis_of_recursive_algorithms.pdf)                                    	| 6.4                        	|              	|
-| 17     	|                                                               	|                         	| [HW12](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework12/hw12.pdf), [Latex](https://github.com/adiesha/CSCI246Fall2024/blob/master/Homeworks/Homework12/hw12_latex.tex)             	|
-| 17     	| Quiz 3                                                              	|                         	| 		|
+| 16     	| Big O                                                 	            | 6.2                      	|           	|
+| 16     	| Properties of Big O and Worst case runtime analysis                 	| 6.3                      	|              	|
+| 16     	| Analysis of recursive algorithms                                    	| 6.4                      	|              	|
+| 17     	|                                                                    	|                         	|              	|
+| 17     	| Quiz 3                                                              	|                         	|       		|
 | 17     	| End of semester                                                     	|                         	|              	|
 |        	|                                                                     	|                         	|              	|
 
