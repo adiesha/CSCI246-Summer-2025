@@ -1,9 +1,3 @@
-Course Syllabus
-
-[Instructor Note: This syllabus page shows a table-oriented view of the course schedule based on the due dates you assign to each course element. You can also use this space to add your course structure, policies, and textbook information, or upload a PDF copy of your full course syllabus document.
-
-Learn More: Canvas Resources for Instructors - Course Syllabus.
-
 # CSCI246-Summer-2025
 CSCI 246: Discrete Structures Summer of 2025
 
