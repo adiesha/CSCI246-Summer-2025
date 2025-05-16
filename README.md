@@ -10,50 +10,50 @@ The schedule is subject to change.
 | 1      | Prepositions, Proof, Direct proofs                                  | 4.3, 2.2.1-2.2.3, 2.2.6 |              |
 | 1      | Proof by cases                                                    | 4.3,2.3                  |              |
 | 1      | Proof by cases II                                                    | 2.3                      |              |
-| 2      | Proof by cases III, Introduction to sets                              | 2.3                      |              |
-| 2      | Labor day-No classes                                                |                          |               |
-| 2         | Sets II                                                            | 2.3,9.2,2.4              |              |
-| 2      | Sets III                                                            | 2.3,9.2,2.5              |              |
-| 3      | Sets IV                                                              |                          |            |
-| 3      | Propositional Logic                                                  |                          |              |
-| 3      | Propositional logic                                                    |   3.1-3.4                 |              |
-| 3      | Proof by contradiction                         | 3.1-3.3                 |            |
-| 4      | Proof by contrapositive                                              | 3.1-3.4                 |              |
-| 4      | Introduction to Predicate Logic                                    | 3.4-3.5                   |              |
-| 4      | Theorems in predicate logic                                           |                          |              |
-| 4      | Introduction to Functions                                          |                          |              |
-| 5      | Onto and one-to-one functions                                        | 2.5                       |              |
-| 5      | Proving functions are not onto and one to one                        |                          |            |
-| 5      | Pigeonhole principle                                      |    2.5, 9.3              |              |
-| 5      | Introduction to Relations                                            | 8.1-8.3                  |              |
-| 6      | Quiz 1 review                                                        |                          |            |
-| 6      | Quiz1                                                                |                          |              |
-| 6      | Relations continued                                                  | 8.1-8.4                  |              |
-| 6      | Equivalence relations and equivalence classes                        | 8.1-8.4                  |              |
-| 9      | Equivalence relations : partial and total order                        | 8.1-8.4                  |              |
-| 9      | Introduction to induction                                            | 5.1-5.2                |         |
-| 10      | Proof by induction and examples                                       | 5.1-5.4                |            |
-| 10      | Inductions Examples continued, Recursively defined structures      |                          |              |
-| 10      | Strong Induction                                                    | 5.1-5.4                 |              |
-| 11      | Introduction to graphs                                                | 11.1-11.2                 |            |
-| 11      | Proofs about graphs                                                 |                          |              |
-| 11      | Special graphs: Clique                                                |                          |              |
-| 12      | Bipartite graphs and Paths                                            |                          |               |
-| 12      | Paths, Cycles and Trees                                               |                          |              |
-| 12      | Introduction to probability and counting                              |                          |              |
-| 13      | Veteran's day - No classes                                          |                          |               |
-| 13      | Tree diagrams and permutations                                        |                          |              |
-| 13      | Quiz 2 review                                                        |                          |              |
-| 14      | Quiz 2                                                              |                          |              |
-| 14      | choosing, Combinatorics and expected values                          |                          |            |
-| 14      | Introduction to analysis of algorithms                                | 6.1                       |              |
-| 15      | Big O                                                              | 6.2                      |            |
-| 15      | Properties of Big O and Worst case runtime analysis                  | 6.3                      |              |
-| 15      | Analysis of recursive algorithms                                    | 6.4                      |              |
-| 16      |                                                                    |                          |              |
-| 16      | Quiz 3                                                              |                          |        |
-| 16      | End of semester                                                      |                          |              |
+| 1      | Proof by cases III, Introduction to sets                              | 2.3                      |              |
+| 1      | Sets II                                                            | 2.3,9.2,2.4              |              |
+| 1      | Sets III                                                            | 2.3,9.2,2.5              |              |
+| 1      | Sets IV                                                              |                          |            |
+| 2      | Propositional Logic                                                  |                          |              |
+| 2      | Propositional logic                                                    |   3.1-3.4                 |              |
+| 2      | Proof by contradiction                         | 3.1-3.3                 |            |
+| 2      | Proof by contrapositive                                              | 3.1-3.4                 |              |
+| 2      | Introduction to Predicate Logic                                    | 3.4-3.5                   |              |
+| 2      | Theorems in predicate logic                                           |                          |              |
+| 2      | Quiz 1 review                                                        |                          |            |
+| 2      | Quiz1                                                                |                          |              |
+| 3      | Introduction to Functions                                          |                          |              |
+| 3      | Onto and one-to-one functions                                        | 2.5                       |              |
+| 3      | Proving functions are not onto and one to one                        |                          |            |
+| 3      | Pigeonhole principle                                      |    2.5, 9.3              |              |
+| 3      | Introduction to Relations                                            | 8.1-8.3                  |              |
+| 3      | Relations continued                                                  | 8.1-8.4                  |              |
+| 3      | Equivalence relations and equivalence classes                        | 8.1-8.4                  |              |
+| 3      | Equivalence relations : partial and total order                        | 8.1-8.4                  |              |
+| 4      | Introduction to induction                                            | 5.1-5.2                |         |
+| 4      | Proof by induction and examples                                       | 5.1-5.4                |            |
+| 4      | Inductions Examples continued, Recursively defined structures      |                          |              |
+| 4      | Strong Induction                                                    | 5.1-5.4                 |              |
+| 4      | Introduction to graphs                                                | 11.1-11.2                 |            |
+| 4      | Proofs about graphs                                                 |                          |              |
+| 4      | Quiz 2 review                                                        |                          |              |
+| 4      | Quiz 2                                                              |                          |              |
+| 5      | Special graphs: Clique                                                |                          |              |
+| 5      | Bipartite graphs and Paths                                            |                          |               |
+| 5      | Paths, Cycles and Trees                                               |                          |              |
+| 5      | Introduction to probability and counting                              |                          |              |
+| 5      | Veteran's day - No classes                                          |                          |               |
+| 5      | Tree diagrams and permutations                                        |                          |              |
+| 5      | choosing, Combinatorics and expected values                          |                          |            |
+| 5      | Introduction to analysis of algorithms                                | 6.1                       |              |
+| 6      | Big O                                                              | 6.2                      |            |
+| 6      | Properties of Big O and Worst case runtime analysis                  | 6.3                      |              |
+| 6      | Analysis of recursive algorithms                                    | 6.4                      |              |
+| 6      |                                                                    |                          |              |
+| 6      | Quiz 3                                                              |                          |        |
+| 6      | End of semester                                                      |                          |              |
 |        |                                                                      |                          |              |
+
 
 
 
