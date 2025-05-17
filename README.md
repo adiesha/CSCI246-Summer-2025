@@ -7,7 +7,7 @@ The schedule is subject to change.
 | Week #                           | Lecture topic                                                      | Recommended reading      | Homework due |
 |-------- |--------------------------------------------------------------------- |------------------------- |-------------- |
 | 1      | Course intro and Syllabus                                            |                          |              |
-| 1      | Prepositions, Proof, Direct proofs                                  | 4.3, 2.2.1-2.2.3, 2.2.6 |              |
+| 1      | Prepositions, Proof, Direct proofs                                  | 3.2, 4.3, 2.2.1-2.2.3, 2.2.6 |              |
 | 1      | Proof by cases                                                    | 4.3,2.3                  |              |
 | 1      | Proof by cases II                                                    | 2.3                      |              |
 | 1      | Proof by cases III, Introduction to sets                              | 2.3                      |              |
