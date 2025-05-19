@@ -20,8 +20,8 @@ The schedule is subject to change.
 | 2      | Proof by contrapositive                                              | 3.1-3.4                 |              |
 | 2      | Introduction to Predicate Logic                                    | 3.4-3.5                   |              |
 | 2      | Theorems in predicate logic                                           |                          |              |
-| 2      | Quiz 1 review                                                        |                          |            |
-| 2      | Quiz1                                                                |                          |              |
+| 2      | Test 1 review                                                        |                          |            |
+| 2      | Test 1                                                                |                          |              |
 | 3      | Introduction to Functions                                          |                          |              |
 | 3      | Onto and one-to-one functions                                        | 2.5                       |              |
 | 3      | Proving functions are not onto and one to one                        |                          |            |
