@@ -42,7 +42,6 @@ The schedule is subject to change.
 | 5      | Bipartite graphs and Paths                                            |                          |               |
 | 5      | Paths, Cycles and Trees                                               |                          |              |
 | 5      | Introduction to probability and counting                              |                          |              |
-| 5      | Veteran's day - No classes                                          |                          |               |
 | 5      | Tree diagrams and permutations                                        |                          |              |
 | 5      | choosing, Combinatorics and expected values                          |                          |            |
 | 5      | Introduction to analysis of algorithms                                | 6.1                       |              |
