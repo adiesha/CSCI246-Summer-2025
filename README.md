@@ -7,7 +7,7 @@ The schedule is subject to change.
 | Week #                           | Lecture topic                                                      | Recommended reading      | Homework due |
 |-------- |--------------------------------------------------------------------- |------------------------- |-------------- |
 | 1      | Course intro and Syllabus                                            |                          |              |
-| 1      | Propositions, Proof, Direct proofs                                  | 3.2, 4.3, 2.2.1-2.2.3, 2.2.6 |              |
+| 1      | [Propositions, Proof, Direct proofs](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Propositions%2C%20Proofs%20and%20Direct%20Proofs/Propsitions%2C%20proofs%20and%20direct%20proofs.pdf)                                  | 3.2, 4.3, 2.2.1-2.2.3, 2.2.6 |              |
 | 1      | Proof by cases                                                    | 4.3,2.3                  |              |
 | 1      | Proof by cases II                                                    | 2.3                      |              |
 | 1      | Proof by cases III, Introduction to sets                              | 2.3                      |              |
