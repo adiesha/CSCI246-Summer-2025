@@ -36,8 +36,8 @@ The schedule is subject to change.
 | 4      | Strong Induction                                                    | 5.1-5.4                 |              |
 | 4      | Introduction to graphs                                                | 11.1-11.2                 |            |
 | 4      | Proofs about graphs                                                 |                          |              |
-| 4      | Quiz 2 review                                                        |                          |              |
-| 4      | Quiz 2                                                              |                          |              |
+| 4      | Test 2 review                                                        |                          |              |
+| 4      | Test 2                                                              |                          |              |
 | 5      | Special graphs: Clique                                                |                          |              |
 | 5      | Bipartite graphs and Paths                                            |                          |               |
 | 5      | Paths, Cycles and Trees                                               |                          |              |
@@ -50,7 +50,7 @@ The schedule is subject to change.
 | 6      | Properties of Big O and Worst case runtime analysis                  | 6.3                      |              |
 | 6      | Analysis of recursive algorithms                                    | 6.4                      |              |
 | 6      |                                                                    |                          |              |
-| 6      | Quiz 3                                                              |                          |        |
+| 6      | Test 3                                                              |                          |        |
 | 6      | End of semester                                                      |                          |              |
 |        |                                                                      |                          |              |
 
