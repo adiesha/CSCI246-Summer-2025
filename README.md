@@ -116,16 +116,14 @@ By following lectures, completing assignments and quizzes, and reading the textb
 
 
 - be able to read and write mathematical proofs using the following methods:
-* Direct proofs
-* Proofs by counterexample
-* Proof by construction
-* Proofs by contradiction
-* Proofs by contrapositive
-* Proofs by induction
+  * Direct proofs
+  * Proofs by counterexample
+  * Proof by construction
+  * Proofs by contradiction
+  * Proofs by contrapositive
+  * Proofs by induction
 - improve their problem-solving skills and critical thinking skills.
-* using examples, counter-examples, diagrams, simpler cases, similar problems, etc., to better understand a mathematical statement
-* recognizing a broken proof or a false start and using it to find a new result or approach,
-- thinking critically about which proof paradigm is most appropriate.
+* using examples, counter-examples, diagrams, simpler cases, similar problems, etc., to better understand a mathematical statement recognizing a broken proof or a false start and using it to find a new result or approach, thinking critically about which proof paradigm is most appropriate.
 
 
 ## Accommodations
