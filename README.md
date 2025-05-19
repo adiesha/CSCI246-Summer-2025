@@ -85,7 +85,8 @@ No course assistants.
 
 
 ## Instructor Office hours
-- TBD
+- Monday: 2pm-3pm
+- Thuursday: 2pm-3pm
 - Barnard 349
 
 
