@@ -10,9 +10,7 @@ The schedule is subject to change.
 | 1      | [Propositions, Proof, Direct proofs](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Propositions%2C%20Proofs%20and%20Direct%20Proofs/Propsitions%2C%20proofs%20and%20direct%20proofs.pdf)                                  | 3.2, 4.3, 2.2.1-2.2.3, 2.2.6 |              |
 | 1      | [Disproof by counter example and Proof by cases](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Disproof%20by%20counter%20example%20and%20Proof%20by%20cases/Proof%20by%20cases_250520_153919.pdf)                                     | 4.3,2.3                  |              |
 | 1      | [Introduction to sets](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Sets/Sets_Part1_250521_134744.pdf)                              | 2.3,9.2,2.4                      |              |
-| 1      | Sets II                                                            | 2.3,9.2,2.4              |              |
-| 1      | Sets III                                                            | 2.3,9.2,2.5              |              |
-| 1      | Sets IV                                                              |                          |            |
+| 1      | [Sets II](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Sets%20part%202/Sets%20Part%202_250522_133634.pdf)                                                            | 2.3,9.2,2.4              |              |
 | 2      | Propositional Logic                                                  |                          | [HW1 due](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW1/hw1.pdf)             |
 | 2      | Propositional logic                                                    |   3.1-3.4                 |              |
 | 2      | Proof by contradiction                         | 3.1-3.3                 |            |
