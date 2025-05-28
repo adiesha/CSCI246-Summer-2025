@@ -12,7 +12,7 @@ The schedule is subject to change.
 | 1      | [Introduction to sets](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Sets/Sets_Part1_250521_134744.pdf)                              | 2.3,9.2,2.4                      |              |
 | 1      | [Sets II](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Sets%20part%202/Sets%20Part%202_250522_133634.pdf)                                                            | 2.3,9.2,2.4              |              |
 | 2      | Propositional Logic                                                  |                          | [HW1 due](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW1/hw1.pdf)             |
-| 2      | Propositional logic                                                    |   3.1-3.4                 |              |
+| 2      | [Propositional logic](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Propositional%20Logic/Propositional%20Logic_250527_141443.pdf)                                                    |3.1-3.4                 |              |
 | 2      | Proof by contradiction                         | 3.1-3.3                 |            |
 | 2      | Proof by contrapositive                                              | 3.1-3.4                 |              |
 | 2      | Introduction to Predicate Logic                                    | 3.4-3.5                   |              |
