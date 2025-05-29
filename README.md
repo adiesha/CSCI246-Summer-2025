@@ -13,12 +13,10 @@ The schedule is subject to change.
 | 1      | [Sets II](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Sets%20part%202/Sets%20Part%202_250522_133634.pdf)                                                            | 2.3,9.2,2.4              |              |
 | 2      | Propositional Logic                                                  |                          | [HW1 due](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW1/hw1.pdf)             |
 | 2      | [Propositional logic](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Propositional%20Logic/Propositional%20Logic_250527_141443.pdf)                                                    |3.1-3.4                 |              |
-| 2      | Proof by contradiction                         | 3.1-3.3                 |            |
-| 2      | Proof by contrapositive                                              | 3.1-3.4                 |              |
-| 2      | Introduction to Predicate Logic                                    | 3.4-3.5                   |              |
-| 2      | Theorems in predicate logic                                           |                          |              |
-| 2      | Test 1 review                                                        |                          |            |
-| 2      | Test 1                                                                |                          |              |
+| 2      | [Proof by contradiction](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Contradiction/Proof%20by%20contradiction_250528_130100.pdf) \| Test 1 review                        | 3.1-3.3                 |            |
+| 2      | [Proof by contrapositive](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Contrapositive/Proof%20by%20contrapositive%20statement%20_250529_124242.pdf) \| Test 1                                              | 3.1-3.4                 |              |
+| 3      | Introduction to Predicate Logic                                    | 3.4-3.5                   |              |
+| 3      | Theorems in predicate logic                                           |                          |              |
 | 3      | Introduction to Functions                                          |                          |              |
 | 3      | Onto and one-to-one functions                                        | 2.5                       |              |
 | 3      | Proving functions are not onto and one to one                        |                          |            |
