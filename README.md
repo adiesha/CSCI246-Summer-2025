@@ -15,8 +15,7 @@ The schedule is subject to change.
 | 2      | [Propositional logic](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Propositional%20Logic/Propositional%20Logic_250527_141443.pdf)                                                    |3.1-3.4                 |              |
 | 2      | [Proof by contradiction](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Contradiction/Proof%20by%20contradiction_250528_130100.pdf) \| Test 1 review                        | 3.1-3.3                 |            |
 | 2      | [Proof by contrapositive](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Contrapositive/Proof%20by%20contrapositive%20statement%20_250529_124242.pdf) \| Test 1                                              | 3.1-3.4                 |              |
-| 3      | Introduction to Predicate Logic                                    | 3.4-3.5                   | [HW2 Due](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW2/hw_2_CSCI_246_Summer_2025.pdf)             |
-| 3      | Theorems in predicate logic                                           |                          |              |
+| 3      | [Introduction to Predicate Logic and theorems in predicate logic](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture13/Introduction_To_Predicate_Logic.pdf)                                    | 3.4-3.5                   | [HW2 Due](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW2/hw_2_CSCI_246_Summer_2025.pdf)             |
 | 3      | Introduction to Functions                                          |                          |              |
 | 3      | Onto and one-to-one functions                                        | 2.5                       |              |
 | 3      | Proving functions are not onto and one to one                        |                          |            |
