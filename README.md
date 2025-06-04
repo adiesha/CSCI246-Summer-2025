@@ -16,7 +16,7 @@ The schedule is subject to change.
 | 2      | [Proof by contradiction](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Contradiction/Proof%20by%20contradiction_250528_130100.pdf) \| Test 1 review                        | 3.1-3.3                 |            |
 | 2      | [Proof by contrapositive](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Contrapositive/Proof%20by%20contrapositive%20statement%20_250529_124242.pdf) \| Test 1                                              | 3.1-3.4                 |              |
 | 3      | [Introduction to Predicate Logic and theorems in predicate logic](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture13/Introduction_To_Predicate_Logic.pdf)                                    | 3.4-3.5                   | [HW2 Due](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW2/hw_2_CSCI_246_Summer_2025.pdf)             |
-| 3      | Introduction to Functions                                          |                          |              |
+| 3      | [Introduction to Functions](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Functions/Functions_250604_110429.pdf)                                          |                          |              |
 | 3      | Onto and one-to-one functions                                        | 2.5                       |              |
 | 3      | Proving functions are not onto and one to one                        |                          |            |
 | 3      | Pigeonhole principle                                      |    2.5, 9.3              |              |
