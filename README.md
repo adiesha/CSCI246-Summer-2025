@@ -17,10 +17,9 @@ The schedule is subject to change.
 | 2      | [Proof by contrapositive](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Contrapositive/Proof%20by%20contrapositive%20statement%20_250529_124242.pdf) \| Test 1                                              | 3.1-3.4                 |              |
 | 3      | [Introduction to Predicate Logic and theorems in predicate logic](https://github.com/adiesha/CSCI246Fall2024/blob/master/Notes/Lecture13/Introduction_To_Predicate_Logic.pdf)                                    | 3.4-3.5                   | [HW2 Due](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW2/hw_2_CSCI_246_Summer_2025.pdf)             |
 | 3      | [Introduction to Functions](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Functions/Functions_250604_110429.pdf)                                          |                          |              |
-| 3      | Onto and one-to-one functions                                        | 2.5                       |              |
-| 3      | Proving functions are not onto and one to one                        |                          |            |
-| 3      | Pigeonhole principle                                      |    2.5, 9.3              |              |
-| 3      | Introduction to Relations                                            | 8.1-8.3                  |              |
+| 3      | [Onto and one-to-one functions](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Onto%20and%20One%20to%20One%20functions/Onto%20and%20one-to-one%20functions%20_250604_123921.pdf)                                        | 2.5                       |              |
+| 3      | [Pigeonhole principle](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/PHP/Pigeon%20hole%20principle%20(PHP)_250604_131853%20(1).pdf)                                      |    2.5, 9.3              |              |
+| 3      | [Introduction to Relations](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Relations%20Part%201/Relations_250604_143213.pdf)                                            | 8.1-8.3                  |              |
 | 3      | Relations continued                                                  | 8.1-8.4                  |              |
 | 3      | Equivalence relations and equivalence classes                        | 8.1-8.4                  |              |
 | 3      | Equivalence relations : partial and total order                        | 8.1-8.4                  |              |
