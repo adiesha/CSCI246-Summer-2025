@@ -22,9 +22,8 @@ The schedule is subject to change.
 | 3      | [Introduction to Relations](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Relations%20Part%201/Relations_250604_143213.pdf)                                            | 8.1-8.3                  |              |
 | 3      | [Relations continued](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Relations%20Part%202/Relations_part2_250605_134558.pdf)                                                  | 8.1-8.4                  |              |
 | 3      | [Equivalence relations : partial and total order](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Partial%20orders%20and%20strict%20partial%20orders/Partial%20orders%2C%20strict%20partial%20orders_250609_133628.pdf)                        | 8.1-8.4                  |              |
-| 4      | Introduction to induction                                            | 5.1-5.2                |         |
-| 4      | Proof by induction and examples                                       | 5.1-5.4                |            |
-| 4      | Inductions Examples continued, Recursively defined structures      |                          |              |
+| 4      | [Introduction to induction](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Induction/Induction_250610_131459.pdf)                                            | 5.1-5.4                |         |
+| 4      | [Inductions Examples continued, Recursively defined structures](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Recursively%20defined%20structures/Recursively%20defined%20structures%20and%20sets_250611_132138.pdf)      | 5.1-5.4                         |              |
 | 4      | Strong Induction                                                    | 5.1-5.4                 |              |
 | 4      | Introduction to graphs                                                | 11.1-11.2                 |            |
 | 4      | Proofs about graphs                                                 |                          |              |
