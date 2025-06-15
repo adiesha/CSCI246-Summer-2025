@@ -20,9 +20,8 @@ The schedule is subject to change.
 | 3      | [Onto and one-to-one functions](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Onto%20and%20One%20to%20One%20functions/Onto%20and%20one-to-one%20functions%20_250604_123921.pdf)                                        | 2.5                       |              |
 | 3      | [Pigeonhole principle](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/PHP/Pigeon%20hole%20principle%20(PHP)_250604_131853%20(1).pdf)                                      | 2.5, 9.3              |              |
 | 3      | [Introduction to Relations](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Relations%20Part%201/Relations_250604_143213.pdf)                                            | 8.1-8.3                  |              |
-| 3      | Relations continued                                                  | 8.1-8.4                  |              |
-| 3      | Equivalence relations and equivalence classes                        | 8.1-8.4                  |              |
-| 3      | Equivalence relations : partial and total order                        | 8.1-8.4                  |              |
+| 3      | [Relations continued](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Relations%20Part%202/Relations_part2_250605_134558.pdf)                                                  | 8.1-8.4                  |              |
+| 3      | [Equivalence relations : partial and total order](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Partial%20orders%20and%20strict%20partial%20orders/Partial%20orders%2C%20strict%20partial%20orders_250609_133628.pdf)                        | 8.1-8.4                  |              |
 | 4      | Introduction to induction                                            | 5.1-5.2                |         |
 | 4      | Proof by induction and examples                                       | 5.1-5.4                |            |
 | 4      | Inductions Examples continued, Recursively defined structures      |                          |              |
