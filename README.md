@@ -22,11 +22,11 @@ The schedule is subject to change.
 | 3      | [Introduction to Relations](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Relations%20Part%201/Relations_250604_143213.pdf)                                            | 8.1-8.3                  |              |
 | 3      | [Relations continued](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Relations%20Part%202/Relations_part2_250605_134558.pdf)                                                  | 8.1-8.4                  |              |
 | 3      | [Equivalence relations : partial and total order](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Partial%20orders%20and%20strict%20partial%20orders/Partial%20orders%2C%20strict%20partial%20orders_250609_133628.pdf)                        | 8.1-8.4                  |              |
-| 4      | [Introduction to induction](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Induction/Induction_250610_131459.pdf)                                            | 5.1-5.4                |         |
+| 4      | [Introduction to induction](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Proof%20by%20Induction/Induction_250610_131459.pdf)                                            | 5.1-5.4                |  [HW3](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW3/hw_3_CSCI_246_Summer_2025.pdf)       |
 | 4      | [Inductions Examples continued, Recursively defined structures](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Recursively%20defined%20structures/Recursively%20defined%20structures%20and%20sets_250611_132138.pdf)      | 5.1-5.4                         |              |
 | 4      | Test 2 review                                                        |                          |              |
 | 4      | Test 2                                                              |                          |              |
-| 5      | [Introduction to graphs](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Introduction%20to%20Graphs/Introduction%20to%20graphs_250616_134111.pdf)                                                | 11.1-11.2                 |            |
+| 5      | [Introduction to graphs](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Introduction%20to%20Graphs/Introduction%20to%20graphs_250616_134111.pdf)                                                | 11.1-11.2                 | [HW4](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW4/hw4_CSCI_246_Summer_2025.pdf)           |
 | 5      | Proofs about graphs                                                 |                          |              |
 | 5      | Special graphs: Clique                                                |                          |              |
 | 5      | Bipartite graphs and Paths                                            |                          |               |
@@ -35,11 +35,11 @@ The schedule is subject to change.
 | 5      | Tree diagrams and permutations                                        |                          |              |
 | 5      | choosing, Combinatorics and expected values                          |                          |            |
 | 5      | Introduction to analysis of algorithms                                | 6.1                       |              |
-| 6      | Big O                                                              | 6.2                      |            |
+| 6      | Big O                                                              | 6.2                      | [HW5](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW5/HW6_CSCI_246_Summer_2025.pdf)           |
 | 6      | Properties of Big O and Worst case runtime analysis                  | 6.3                      |              |
 | 6      | Analysis of recursive algorithms                                    | 6.4                      |              |
 | 6      |                                                                    |                          |              |
-| 6      | Test 3                                                              |                          |        |
+| 6      | Test 3                                                              |                          | HW6         |
 | 6      | End of semester                                                      |                          |              |
 |        |                                                                      |                          |              |
 
