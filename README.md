@@ -26,7 +26,7 @@ The schedule is subject to change.
 | 4      | [Inductions Examples continued, Recursively defined structures](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Recursively%20defined%20structures/Recursively%20defined%20structures%20and%20sets_250611_132138.pdf)      | 5.1-5.4                         |              |
 | 4      | Test 2 review                                                        |                          |              |
 | 4      | Test 2                                                              |                          |              |
-| 4      | Introduction to graphs                                                | 11.1-11.2                 |            |
+| 4      | [Introduction to graphs](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Introduction%20to%20Graphs/Introduction%20to%20graphs_250616_134111.pdf)                                                | 11.1-11.2                 |            |
 | 4      | Proofs about graphs                                                 |                          |              |
 | 5      | Special graphs: Clique                                                |                          |              |
 | 5      | Bipartite graphs and Paths                                            |                          |               |
