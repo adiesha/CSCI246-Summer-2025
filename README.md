@@ -27,13 +27,9 @@ The schedule is subject to change.
 | 4      | Test 2 review                                                        |                          |              |
 | 4      | Test 2                                                              |                          |              |
 | 5      | [Introduction to graphs](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Introduction%20to%20Graphs/Introduction%20to%20graphs_250616_134111.pdf)                                                | 11.1-11.2                 | [HW4](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW4/hw4_CSCI_246_Summer_2025.pdf)           |
-| 5      | Proofs about graphs                                                 |                          |              |
-| 5      | Special graphs: Clique                                                |                          |              |
-| 5      | Bipartite graphs and Paths                                            |                          |               |
-| 5      | Paths, Cycles and Trees                                               |                          |              |
-| 5      | Introduction to probability and counting                              |                          |              |
-| 5      | Tree diagrams and permutations                                        |                          |              |
-| 5      | choosing, Combinatorics and expected values                          |                          |            |
+| 5      | [Special Graphs and Proofs](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Special%20graphs%20and%20proofs/special%20graphs%20and%20proofs_250618_121556.pdf)                                                 |                          |              |
+| 5      | [Introduction to probability and counting](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Random%20variables%20and%20expected%20values/Randomness%20and%20probability_250618_134816.pdf)                              |                          |              |
+| 5      | [Tree diagrams, permutations, choosing, combinatorics and expected values](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Notes/Random%20variables%20and%20expected%20values/Random%20variables%20and%20expected%20value_250619_135431.pdf)                                        |                          |              |
 | 5      | Introduction to analysis of algorithms                                | 6.1                       |              |
 | 6      | Big O                                                              | 6.2                      | [HW5](https://github.com/adiesha/CSCI246-Summer-2025/blob/master/Assignments/HW5/HW6_CSCI_246_Summer_2025.pdf)           |
 | 6      | Properties of Big O and Worst case runtime analysis                  | 6.3                      |              |
